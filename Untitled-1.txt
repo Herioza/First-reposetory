@@ -1,5 +1,4 @@
 // testar.
-// testar 2.
+// testar
 
-
-Nu har jag skrivit extra saker
+Nu har jag raderat några saker.
